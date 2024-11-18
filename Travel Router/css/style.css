@@ -92,8 +92,8 @@ h4,
   box-shadow: none;
 }
 .btn.btn-primary {
-  background: #1a374d;
-  border-color: #1a374d;
+  background: #dd93c1;
+  border-color: #e79dcd;
 }
 .btn.btn-primary:hover {
   border-color: #1f425c;
@@ -205,7 +205,7 @@ h4,
 
 .logo {
   font-size: 24px;
-  color: palevioletred;
+  color: rgb(9, 1, 21);
   font-weight: 700;
 }
 .logo:hover {
